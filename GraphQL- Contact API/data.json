@@ -1,0 +1,39 @@
+{
+    "contacts": [
+      {
+        "id": "1",
+        "name": "Jarule",
+        "email": "jrule@gmail.com",
+        "age": 36,
+        "phone": "07-2273000"
+      },
+      {
+        "id": "2",
+        "name": "DRdre",
+        "email": "dre@gmail.com",
+        "age": 50,
+        "phone": "07-2273000"
+      },
+      {
+        "id": "3",
+        "name": "Eminem",
+        "email": "m&m@gmail.com",
+        "age": 23,
+        "phone": "07-2273000"
+      },
+      {
+        "id": "5",
+        "name": "Biggy Smalls",
+        "email": "bs@gmail.com",
+        "age": 24,
+        "phone": "07-2273000"
+      },
+      {
+        "name": "Tupac Shakur",
+        "email": "ts@gmail.com",
+        "age": 25,
+        "id": "rytP7hhUW",
+        "phone": "07-2273000"
+      }
+    ]
+  }
